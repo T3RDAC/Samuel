@@ -1,0 +1,51 @@
+@charset "utf-8";
+/*CSS Document*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+li, a, button{
+    font-family: "Robot", Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
+
+#navprincipal{
+    background-color: rgb(45, 75, 139);
+} 
+
+
+
+
+
+
+/*#idFigure{
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    margin-right: auto;
+    padding: 1em;
+    
+}
+*/
+/*#imgv01{
+
+    margin: 20px auto;
+    background: #FC3;
+    padding: 5px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 8px ;
+}*/
+
+.imgSubNAV{
+
+    margin: 20px auto;
+    background: rgb(86, 118, 187);
+    
+    padding: 5px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 8px ;
+}
